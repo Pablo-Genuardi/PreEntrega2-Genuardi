@@ -1,0 +1,23 @@
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1400px; 
+  }
+
+.cardProducts {
+    justify-content: center;
+    align-items: center;
+    margin: 4rem;
+  }
+
+.cardProduct {
+    width: 18rem;
+    margin: 6px;
+}
+
+.itemDetail {
+    
+    max-width: 600px;
+
+}
